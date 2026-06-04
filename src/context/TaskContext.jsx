@@ -34,7 +34,7 @@ export const TaskProvider = ({ children }) => {
         description: "Deploy the website to the production server.",
         priority: "low",
         status: "todo",
-        dueDate: "2026-06-05",
+        dueDate: "2026-06-25",
       },
       {
         id: 4,
